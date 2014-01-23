@@ -1,6 +1,6 @@
 class Owner
 def name
-name = 'FuckFace Dickshine'
+name = 'Johnny Web Guy'
 end
 def birthdate
 birthdate = Date.new(1990, 12, 22)
